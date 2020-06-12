@@ -10,7 +10,7 @@
 <img src="src/assets/img/geradorSenha.gif" align="center">
 </h1>
 
-# 🔥 About 📝📋
+# 📋 About
 
 Project that I developed in January 2020 to help people find a strong and effective password quickly. I used Babel as a compiler so that people with older browsers can access the password generator as well.
 
